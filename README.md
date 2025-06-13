@@ -9,6 +9,8 @@
 
 This project implements a robust car price prediction model that achieves **97.78% accuracy** (R² score) on test data. The model uses advanced feature engineering techniques, including polynomial features and interaction terms, combined with a regularized deep neural network architecture.
 
+---
+
 ## Technologies Used
 
 - **Python 3.8+**
@@ -16,6 +18,8 @@ This project implements a robust car price prediction model that achieves **97.7
 - **Pandas** - Data manipulation and analysis
 - **Matplotlib** - Data visualization
 - **Kaggle API** - Dataset acquisition
+
+---
 
 ## Dataset
 
@@ -27,6 +31,8 @@ The project uses the **Second Hand Used Cars Dataset** from Kaggle, which contai
 - Condition and rating information
 
 **Dataset Source**: [Second Hand Used Cars Data Set - Linear Regression](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
+
+---
 
 ## Model Architecture & Methodology
 
@@ -69,9 +75,9 @@ Applied **Normalization** using `tf.keras.layers.Normalization`:
   y_{\text{scaled}} = \frac{y - \text{mean}(y)}{\text{std}(y)}
   $$
 
----
 
-#### The neural network architecture consists of:
+
+#### 4. The neural network architecture consists of:
 
 An Input Layer that receives the normalized features.
 
@@ -116,6 +122,8 @@ Output Layer (1 unit)
 | **R² Score** | **97.78%**     |
 | **MAE**      | **$15,111.97** |
 | **RMSE**     | **$19,115.59** |
+
+---
 
 ### Visualizations
 
