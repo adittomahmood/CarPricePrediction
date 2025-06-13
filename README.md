@@ -9,7 +9,6 @@
 
 This project implements a robust car price prediction model that achieves **97.78% accuracy** (R² score) on test data. The model uses advanced feature engineering techniques, including polynomial features and interaction terms, combined with a regularized deep neural network architecture.
 
----
 
 ## Technologies Used
 
@@ -19,7 +18,6 @@ This project implements a robust car price prediction model that achieves **97.7
 - **Matplotlib** - Data visualization
 - **Kaggle API** - Dataset acquisition
 
----
 
 ## Dataset
 
@@ -32,7 +30,6 @@ The project uses the **Second Hand Used Cars Dataset** from Kaggle, which contai
 
 **Dataset Source**: [Second Hand Used Cars Data Set - Linear Regression](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
 
----
 
 ## Model Architecture & Methodology
 
@@ -74,7 +71,6 @@ Applied **Normalization** using `tf.keras.layers.Normalization`:
   $$
   y_{\text{scaled}} = \frac{y - \text{mean}(y)}{\text{std}(y)}
   $$
-
 
 
 #### 4. The neural network architecture consists of:
@@ -123,21 +119,17 @@ Output Layer (1 unit)
 | **MAE**      | **$15,111.97** |
 | **RMSE**     | **$19,115.59** |
 
----
 
 ### Visualizations
 
-_[Training Loss & RMSE Curves]_
 ![Training Curves](https://i.ibb.co/jkNYXdxd/Screenshot-2025-06-13-122720.png)
 
 This plot illustrates the model's learning progress, showing how both training and validation loss/RMSE decrease over epochs, eventually stabilizing due to early stopping.
 
-_[Feature Correlation Heatmap]_
 ![Correlation Heatmap](https://i.ibb.co/7xpdvmCJ/hitmap.png)
 
 The heatmap provides a visual representation of the correlation between different features, helping to understand relationships within the dataset.
 
-_[Actual vs Predicted Prices]_
 ![Prediction Scatter Plot](https://i.ibb.co/twNqyRfH/Screenshot-2025-06-13-122919.png)
 
 This scatter plot visually compares the model's predictions against the actual car prices. A close alignment of points along the red dashed line indicates high accuracy.
@@ -172,13 +164,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - **TensorFlow** team for the excellent deep learning framework
 - **Open source community** for the amazing tools and libraries
 
-## Contact
-
-Feel free to connect with me:
+---
 
 - GitHub: [@Aditto Mahmood](https://github.com/adittomahmood)
 - LinkedIn: [Aditto Mahmood](https://linkedin.com/in/adittomahmood)
 
----
-
-_Built with ❤️ using Python and TensorFlow_
