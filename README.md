@@ -29,7 +29,7 @@ The model is trained on the comprehensive **Second Hand Used Cars Dataset** sour
 * **Usage metrics**: Years since manufacture, Kilometers driven
 * **Condition and rating information**: Various metrics describing the car's state and performance.
 
-**Dataset Source**: [Second Hand Used Cars Data Set - Linear Regression](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
+[![Dataset Source](https://img.shields.io/badge/Dataset_Source-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
 
 ## Model Architecture & Methodology
 
