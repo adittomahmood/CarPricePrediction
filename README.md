@@ -126,7 +126,7 @@ Output Layer (1 unit)
 
 This plot illustrates the model's learning progress, showing how both training and validation loss/RMSE decrease over epochs, eventually stabilizing due to early stopping.
 
-![Correlation Heatmap](https://i.ibb.co/7xpdvmCJ/hitmap.png)
+![Correlation Heatmap](https://i.ibb.co/Y4FT4sp6/Screenshot-2025-06-13-130438.png)
 
 The heatmap provides a visual representation of the correlation between different features, helping to understand relationships within the dataset.
 
