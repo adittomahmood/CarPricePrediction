@@ -143,19 +143,20 @@ This project benefited immensely from the contributions and resources provided b
 * **Open Source Community**: For the continuous development of incredible tools and libraries that make projects like this possible.
 
 <div align="center">
-  <h2>🌐 LET'S CONNECT & COLLABORATE</h2>
-  <a href="https://linkedin.com/in/adittomahmood" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://github.com/adittomahmood" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github" alt="GitHub Profile" />
-  </a>
-  <br/>
-  <br/>
-  <p style="font-size: 12px; color: #8B949E;">
-    © 2025 Tasneem Bin Mahmood • Machine Learning & Computer Vision Engineer
-  </p>
+
+## 🌐 LET'S CONNECT & COLLABORATE
+
+[![LinkedIn Profile](https://custom-icon-badges.demolab.com/badge/_LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/adittomahmood)
+[![GitHub Profile](https://custom-icon-badges.demolab.com/badge/_Follow_Me-181717?style=for-the-badge&logoColor=white&logo=github)](https://github.com/adittomahmood)
+
+<br>
+
+<span style="font-size:12px; color:#8B949E;">
+© 2025 Tasneem Bin Mahmood • Machine Learning & Computer Vision Engineer
+</span>
+
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Footer Image" />
