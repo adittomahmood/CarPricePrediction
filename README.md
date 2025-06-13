@@ -1,9 +1,10 @@
 # Second-Hand Car Price Prediction using Deep Learning
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow 2.0](https://img.shields.io/badge/TensorFlow-2.0-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
-[![R² Score](https://img.shields.io/badge/R²_Score-97.78%25-brightgreen?style=for-the-badge&logo=bar-chart&logoColor=white)](#results)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-306998?style=for-the-badge&logo=python&logoColor=fff&labelColor=14213d&color=306998&logoWidth=20&shadow=1)](https://www.python.org/)
+[![TensorFlow 2.0](https://img.shields.io/badge/TensorFlow-2.0-306998?style=for-the-badge&logo=tensorflow&logoColor=fff&labelColor=14213d&color=306998&logoWidth=20&shadow=1)](https://www.tensorflow.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-306998?style=for-the-badge&logo=open-source-initiative&logoColor=fff&labelColor=14213d&color=306998&shadow=1&logoWidth=20)](LICENSE)
+[![R² Score](https://img.shields.io/badge/R²_Score-97.78%25-306998?style=for-the-badge&logo=chart-bar&logoColor=fff&labelColor=14213d&color=306998&shadow=1&logoWidth=20)](#results)
+
 
 ## Project Overview
 
