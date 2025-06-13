@@ -1,4 +1,4 @@
-# 🚗 Second-Hand Car Price Prediction using Deep Learning
+# Second-Hand Car Price Prediction using Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
@@ -133,13 +133,6 @@ _[Actual vs Predicted Prices]_
 ![Prediction Scatter Plot](https://i.ibb.co/twNqyRfH/Screenshot-2025-06-13-122919.png)
 
 This scatter plot visually compares the model's predictions against the actual car prices. A close alignment of points along the red dashed line indicates high accuracy.
-
-### Data Preprocessing
-
-- Automatic dataset download via Kaggle API
-- Feature scaling using TensorFlow normalization
-- Target variable standardization
-- Data shuffling for better training
 
 ### Model Training
 
